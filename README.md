@@ -1,5 +1,6 @@
-#🌟 Simple & Stylish Login Form 🚀
-A sleek, responsive login form designed with pure HTML and CSS. Perfect for beginners and a great addition to your web development projects! 💻✨
+🌟 Simple & Stylish Login Form 🚀
+A sleek, responsive login form designed with pure HTML and CSS. 
+Perfect for beginners and a great addition to your web development projects! 💻✨
 
 ✨ Features
 Responsive Design 📱
